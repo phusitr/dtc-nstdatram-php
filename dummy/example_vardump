@@ -1,0 +1,309 @@
+
+Array
+(
+    [error] => 
+    [status] => 200
+    [message] => ok
+    [count] => 9
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [gps_id] => 010376600000012
+                    [truck_name] => TW 016 33-9292 DEAWOO
+                    [time] => 2020-01-07 10:29:00
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.080401
+                    [lon] => 100.60042
+                    [mileage] => 58642.7
+                    [heading] => 135
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 30.1
+                    [batt_volt] => 4.08
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [1] => Array
+                (
+                    [gps_id] => 010376600000001
+                    [truck_name] => TW 019 33-7447 DAEWOO
+                    [time] => 2020-01-07 10:32:14
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.08022
+                    [lon] => 100.59961
+                    [mileage] => 65056.3
+                    [heading] => 113
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 30.01
+                    [batt_volt] => 4.11
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [2] => Array
+                (
+                    [gps_id] => 010376600000029
+                    [truck_name] => TW 022 33-9229  DEAWOO
+                    [time] => 2020-01-07 10:28:55
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.080256
+                    [lon] => 100.59994
+                    [mileage] => 78131.8
+                    [heading] => 0
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 33.09
+                    [batt_volt] => 4.03
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [3] => Array
+                (
+                    [gps_id] => 010376600000028
+                    [truck_name] => TW 021 33-7979 DEAWOO
+                    [time] => 2020-01-07 10:31:01
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.08013
+                    [lon] => 100.59923
+                    [mileage] => 80363.4
+                    [heading] => 180
+                    [io_ch] => 000000100000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 33
+                    [batt_volt] => 4.11
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [4] => Array
+                (
+                    [gps_id] => 010376600000033
+                    [truck_name] => TW 030
+                    [time] => 2020-01-07 10:30:35
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.080168
+                    [lon] => 100.59937
+                    [mileage] => 56989.7
+                    [heading] => 0
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 26.29
+                    [batt_volt] => 4.12
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [5] => Array
+                (
+                    [gps_id] => 010376600000035
+                    [truck_name] => TW 026 33-9797 DAEWOO
+                    [time] => 2020-01-07 10:29:35
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 13.9491005
+                    [lon] => 100.61707
+                    [mileage] => 57914.8
+                    [heading] => 113
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 26.22
+                    [batt_volt] => 4.16
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => สนามบิน
+                    [sub_district_en] => Sanam Bin
+                    [district_th] => ดอนเมือง
+                    [district_en] => Don Mueang
+                    [province_th] => กรุงเทพมหานคร
+                    [province_en] => Bangkok
+                    [station_id] => ST-102533
+                    [station_name] => ศูนย์แดวู
+                )
+
+            [6] => Array
+                (
+                    [gps_id] => 010376600000013
+                    [truck_name] => TW 027 33-9779 DAEWOO
+                    [time] => 2020-01-07 10:30:12
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.080342
+                    [lon] => 100.600296
+                    [mileage] => 49290.6
+                    [heading] => 225
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 29.94
+                    [batt_volt] => 4.14
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [7] => Array
+                (
+                    [gps_id] => 010376600000004
+                    [truck_name] => TW 023 33-7373 DEAWOO
+                    [time] => 2020-01-07 10:32:51
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.080333
+                    [lon] => 100.60008
+                    [mileage] => 84788.1
+                    [heading] => 68
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 4.97
+                    [batt_volt] => 4.14
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+            [8] => Array
+                (
+                    [gps_id] => 010376600000034
+                    [truck_name] => TW 028 33-8484 DEAWOO
+                    [time] => 2020-01-07 10:27:12
+                    [gps_speed] => 0
+                    [status_code] => 33
+                    [status_name_th] => รถจอด
+                    [status_name_en] => Stop
+                    [lat] => 14.080251
+                    [lon] => 100.599754
+                    [mileage] => 46089.1
+                    [heading] => 158
+                    [io_ch] => 00000000000000
+                    [ecu_speed] => 0
+                    [ecu_rpm] => 0
+                    [ecu_fuel_collect] => 0
+                    [ecu_distance_count] => 0
+                    [car_volt] => 26.14
+                    [batt_volt] => 4.05
+                    [driver_card_id] =>  
+                    [driver_full_name] =>      
+                    [driver_personalcard] =>  
+                    [sub_district_th] => คลองหนึ่ง
+                    [sub_district_en] => Khlong Nueng
+                    [district_th] => คลองหลวง
+                    [district_en] => Khlong Luang
+                    [province_th] => ปทุมธานี
+                    [province_en] => Pathum Thani
+                    [station_id] => ST-41411
+                    [station_name] => เบทาโก ศูนย์วิทย์
+                )
+
+        )
+
+)
