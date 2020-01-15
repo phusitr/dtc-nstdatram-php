@@ -68,7 +68,9 @@ class getBusInfo
 		try {
 		   $pdo = new PDO ( $this->dsn ) ;
 		    if ( $pdo ) {
-			$stmt = $pdo->prepare ( "UPDATE tbl_bus_info SET geopoint = ST_POINT(longitude,latitude);");
+			    $stmt = $pdo->prepare ( "UPDATE tbl_bus_info SET geopoint = ST_POINT(longitude,latitude) 
+				    WHERE date_rec BETWEEN '".date('Y-m-d') ." 05:00:00' AND
+				     '". date('Y-m-d') ." 21:00:00';");
 			$stmt->execute ();
 		    }
 		} catch ( PDOException $e ) {
