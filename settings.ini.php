@@ -9,12 +9,12 @@ BUS_GPS_LIST = '"010376600000012","010376600000028","010376600000029","010376600
 
 
 [MQTT_Broker]
-HOST = 'www.unai.in.th';
+HOST = 'www.xxxx.in.th';
 PORT = '1883'
 
 
 [GPS_info]
-GPS_INFO = '/home/phusit/webindex/mqtt/busNstdaTracking/'
+GPS_INFO = '/home/phuxxx/webindex/mqtt/busNstdaTracking/'
 
 
 [PGSQL]
