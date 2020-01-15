@@ -1,7 +1,7 @@
 const mqtt = require('mqtt');
 const http = require('http')
 
-const client = mqtt.connect('mqtt://www.unai.in.th:1883');
+const client = mqtt.connect('mqtt://www.xxx.in.th:1883');
 
 const mqtt_topic =
 ['tramLocation/003-0002-nbus'];
